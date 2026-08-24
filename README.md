@@ -87,6 +87,17 @@ interests = {
 
 ---
 
+## `> github_stats`
+
+<div align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x7eus&theme=dark&hide_border=true&background=00000000&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" />
+
+</div>
+
+---
+
 ## `> my_approach`
 
 ```text
