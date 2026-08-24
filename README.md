@@ -186,26 +186,6 @@ interests = {
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=0x7eus&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7eus&layout=compact&theme=transparent&hide_border=true&title_color=00ff9d&text_color=ffffff" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x7eus&theme=dark&hide_border=true&background=00000000&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" />
-
-</div>
-
----
-
 ## `> contribution_matrix`
 
 <div align="center">
